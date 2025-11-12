@@ -1,0 +1,1 @@
+./trt_yolo --engine ../yolo_model.fp16.416.engine --input ../output_toslow.mp4 --display --engine-obst ../obst_model.fp16.416.engine --engine-goal ../goal_model.fp16.416.engine --grid-out ../output_grid/ --save ../result.mp4
