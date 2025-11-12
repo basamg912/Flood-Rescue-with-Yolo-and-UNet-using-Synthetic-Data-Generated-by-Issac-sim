@@ -2,9 +2,9 @@
 
 1. Generated Synthetic data using isaac-sim
 - make scene
-	- make data using Replicator
+	- using Replicator
 
-2. Data Preprocessing for Train model
+2. Data Preprocessing for training
 
 3. Train Both Model, Yolo and UNet
 - YOLO : object detection in image data
